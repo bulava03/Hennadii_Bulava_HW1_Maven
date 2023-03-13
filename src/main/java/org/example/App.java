@@ -1,7 +1,4 @@
 package org.example;
-import restaraunt.*;
-import java.util.List;
-import java.util.ArrayList;
 
 public class App 
 {
